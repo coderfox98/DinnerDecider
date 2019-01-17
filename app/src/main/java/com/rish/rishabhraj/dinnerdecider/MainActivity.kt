@@ -7,6 +7,8 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
+    // Test for new branch
+
     val foodList = arrayListOf("Chinese","Hamburger","Pizza","McDonalds","Barros Pizza")
 
     override fun onCreate(savedInstanceState: Bundle?) {
